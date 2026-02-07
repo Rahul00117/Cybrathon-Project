@@ -1,29 +1,29 @@
 "# Cybrathon-Project" 
-# 🎓 AI-Based Face Recognition Attendance System
+# AI-Based Face Recognition Attendance System
 
 ### Detect, Separate and Match Individuals from Group Photos using Face Recognition
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an AI-powered Face Recognition Attendance System developed for college students.
 The system automatically detects, separates, and matches individuals from a group photo and marks attendance subject-wise.
 
 It includes:
 
-* 👨‍🏫 Admin (Teacher) Panel
-* 👨‍🎓 Student Panel
-* 🤖 AI Chatbot (Text + Voice Support)
-* 📸 Group Photo & Live Attendance Detection
-* 📊 Subject-wise Attendance Tracking
-* 📥 Attendance Report Generation
+* Admin (Teacher) Panel
+* Student Panel
+* AI Chatbot (Text + Voice Support)
+* Group Photo & Live Attendance Detection
+* Subject-wise Attendance Tracking
+* Attendance Report Generation
 
 The system is built using **Python, Streamlit, Flask, and Face Recognition techniques**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Automate attendance marking using AI-based face recognition
 * Reduce manual errors in attendance tracking
@@ -34,7 +34,7 @@ The system is built using **Python, Streamlit, Flask, and Face Recognition techn
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology        | Purpose                   |
 | ----------------- | ------------------------- |
@@ -50,7 +50,7 @@ The system is built using **Python, Streamlit, Flask, and Face Recognition techn
 
 ---
 
-## 👨‍🏫 Admin (Teacher) Features
+## Admin (Teacher) Features
 
 * Register students with:
 
@@ -72,7 +72,7 @@ The system is built using **Python, Streamlit, Flask, and Face Recognition techn
 
 ---
 
-## 👨‍🎓 Student Features
+## Student Features
 
 * Secure login system
 * View subject-wise attendance
@@ -86,7 +86,7 @@ The system is built using **Python, Streamlit, Flask, and Face Recognition techn
 
 ---
 
-## 🤖 AI Chatbot Features
+## AI Chatbot Features
 
 * Available for both Teachers and Students
 * Supports:
@@ -102,7 +102,7 @@ The system is built using **Python, Streamlit, Flask, and Face Recognition techn
 
 ---
 
-## 📸 Face Recognition System
+## Face Recognition System
 
 * Detects multiple faces from group photos
 * Matches detected faces with registered student database
@@ -112,7 +112,7 @@ The system is built using **Python, Streamlit, Flask, and Face Recognition techn
 
 ---
 
-## 📊 Subject-Wise Attendance Logic
+## Subject-Wise Attendance Logic
 
 * Each subject is handled separately
 * Teachers can define lecture duration in hours
@@ -122,7 +122,7 @@ The system is built using **Python, Streamlit, Flask, and Face Recognition techn
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 AI-Face-Recognition-Attendance/
@@ -151,7 +151,7 @@ AI-Face-Recognition-Attendance/
 
 ---
 
-## 🔐 Security & Access Control
+## Security & Access Control
 
 * Role-based authentication (Admin & Student)
 * Subject-wise report restriction
@@ -160,7 +160,7 @@ AI-Face-Recognition-Attendance/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Cloud deployment (AWS / Azure)
 * Mobile application integration
@@ -171,7 +171,7 @@ AI-Face-Recognition-Attendance/
 
 ---
 
-## 📈 Real-World Impact
+## Real-World Impact
 
 * Saves time for teachers
 * Prevents proxy attendance
@@ -181,7 +181,7 @@ AI-Face-Recognition-Attendance/
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Rahul Prajapat**
 B.Tech (Artificial Intelligence)
